@@ -1,0 +1,147 @@
+C:\Users\pqtlt\source\repos\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.csproj.CoreCompileInputs.cache
+C:\Users\pqtlt\source\repos\AssignmentWEBPRN292\bin\AssignmentWEBPRN292.dll.config
+C:\Users\pqtlt\source\repos\AssignmentWEBPRN292\bin\AssignmentWEBPRN292.dll
+C:\Users\pqtlt\source\repos\AssignmentWEBPRN292\bin\AssignmentWEBPRN292.pdb
+C:\Users\pqtlt\source\repos\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.dll
+C:\Users\pqtlt\source\repos\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.pdb
+C:\Users\pqtlt\source\repos\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.csprojAssemblyReference.cache
+D:\alice\baiC#\AssignmentShoesShop-1\SE1417_Group7_AssignmentShoesShop\AssignmentWEBPRN292\bin\AssignmentWEBPRN292.dll.config
+D:\alice\baiC#\AssignmentShoesShop-1\SE1417_Group7_AssignmentShoesShop\AssignmentWEBPRN292\bin\AssignmentWEBPRN292.dll
+D:\alice\baiC#\AssignmentShoesShop-1\SE1417_Group7_AssignmentShoesShop\AssignmentWEBPRN292\bin\AssignmentWEBPRN292.pdb
+D:\alice\baiC#\AssignmentShoesShop-1\SE1417_Group7_AssignmentShoesShop\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.csproj.AssemblyReference.cache
+D:\alice\baiC#\AssignmentShoesShop-1\SE1417_Group7_AssignmentShoesShop\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.csproj.CoreCompileInputs.cache
+D:\alice\baiC#\AssignmentShoesShop-1\SE1417_Group7_AssignmentShoesShop\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.dll
+D:\alice\baiC#\AssignmentShoesShop-1\SE1417_Group7_AssignmentShoesShop\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.pdb
+C:\Users\LE THANH LONG\Documents\Ky_5\AssigmentC#\SE1417_Group7_AssignmentShoesShop\AssignmentWEBPRN292\bin\AssignmentWEBPRN292.dll.config
+C:\Users\LE THANH LONG\Documents\Ky_5\AssigmentC#\SE1417_Group7_AssignmentShoesShop\AssignmentWEBPRN292\bin\AssignmentWEBPRN292.dll
+C:\Users\LE THANH LONG\Documents\Ky_5\AssigmentC#\SE1417_Group7_AssignmentShoesShop\AssignmentWEBPRN292\bin\AssignmentWEBPRN292.pdb
+C:\Users\LE THANH LONG\Documents\Ky_5\AssigmentC#\SE1417_Group7_AssignmentShoesShop\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.csprojAssemblyReference.cache
+C:\Users\LE THANH LONG\Documents\Ky_5\AssigmentC#\SE1417_Group7_AssignmentShoesShop\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.csproj.CoreCompileInputs.cache
+C:\Users\LE THANH LONG\Documents\Ky_5\AssigmentC#\SE1417_Group7_AssignmentShoesShop\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.dll
+C:\Users\LE THANH LONG\Documents\Ky_5\AssigmentC#\SE1417_Group7_AssignmentShoesShop\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.pdb
+D:\alice\SE1417_Group7_AssignmentShoesShop\SE1417_Group7_AssignmentShoesShop\AssignmentWEBPRN292\bin\AssignmentWEBPRN292.dll.config
+D:\alice\SE1417_Group7_AssignmentShoesShop\SE1417_Group7_AssignmentShoesShop\AssignmentWEBPRN292\bin\AssignmentWEBPRN292.dll
+D:\alice\SE1417_Group7_AssignmentShoesShop\SE1417_Group7_AssignmentShoesShop\AssignmentWEBPRN292\bin\AssignmentWEBPRN292.pdb
+D:\alice\SE1417_Group7_AssignmentShoesShop\SE1417_Group7_AssignmentShoesShop\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.csproj.AssemblyReference.cache
+D:\alice\SE1417_Group7_AssignmentShoesShop\SE1417_Group7_AssignmentShoesShop\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.csproj.CoreCompileInputs.cache
+D:\alice\SE1417_Group7_AssignmentShoesShop\SE1417_Group7_AssignmentShoesShop\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.dll
+D:\alice\SE1417_Group7_AssignmentShoesShop\SE1417_Group7_AssignmentShoesShop\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.pdb
+C:\Users\ACER\Desktop\SE1417_Group7_AssignmentShoesShop\SE1417_Group7_AssignmentShoesShop\SE1417_Group7_AssignmentShoesShop\AssignmentWEBPRN292\bin\AssignmentWEBPRN292.dll.config
+C:\Users\ACER\Desktop\SE1417_Group7_AssignmentShoesShop\SE1417_Group7_AssignmentShoesShop\SE1417_Group7_AssignmentShoesShop\AssignmentWEBPRN292\bin\AssignmentWEBPRN292.dll
+C:\Users\ACER\Desktop\SE1417_Group7_AssignmentShoesShop\SE1417_Group7_AssignmentShoesShop\SE1417_Group7_AssignmentShoesShop\AssignmentWEBPRN292\bin\AssignmentWEBPRN292.pdb
+C:\Users\ACER\Desktop\SE1417_Group7_AssignmentShoesShop\SE1417_Group7_AssignmentShoesShop\SE1417_Group7_AssignmentShoesShop\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\SE1417_Group7_AssignmentShoesShop\SE1417_Group7_AssignmentShoesShop\SE1417_Group7_AssignmentShoesShop\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\SE1417_Group7_AssignmentShoesShop\SE1417_Group7_AssignmentShoesShop\SE1417_Group7_AssignmentShoesShop\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.dll
+C:\Users\ACER\Desktop\SE1417_Group7_AssignmentShoesShop\SE1417_Group7_AssignmentShoesShop\SE1417_Group7_AssignmentShoesShop\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.pdb
+D:\alice\SE1417_Group7_AssignmentShoesShop\SE1417_Group7_AssignmentShoesShop\SE1417_Group7_AssignmentShoesShop\SE1417_Group7_AssignmentShoesShop\AssignmentWEBPRN292\bin\AssignmentWEBPRN292.dll.config
+D:\alice\SE1417_Group7_AssignmentShoesShop\SE1417_Group7_AssignmentShoesShop\SE1417_Group7_AssignmentShoesShop\SE1417_Group7_AssignmentShoesShop\AssignmentWEBPRN292\bin\AssignmentWEBPRN292.dll
+D:\alice\SE1417_Group7_AssignmentShoesShop\SE1417_Group7_AssignmentShoesShop\SE1417_Group7_AssignmentShoesShop\SE1417_Group7_AssignmentShoesShop\AssignmentWEBPRN292\bin\AssignmentWEBPRN292.pdb
+D:\alice\SE1417_Group7_AssignmentShoesShop\SE1417_Group7_AssignmentShoesShop\SE1417_Group7_AssignmentShoesShop\SE1417_Group7_AssignmentShoesShop\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.csproj.AssemblyReference.cache
+D:\alice\SE1417_Group7_AssignmentShoesShop\SE1417_Group7_AssignmentShoesShop\SE1417_Group7_AssignmentShoesShop\SE1417_Group7_AssignmentShoesShop\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.csproj.CoreCompileInputs.cache
+D:\alice\SE1417_Group7_AssignmentShoesShop\SE1417_Group7_AssignmentShoesShop\SE1417_Group7_AssignmentShoesShop\SE1417_Group7_AssignmentShoesShop\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.dll
+D:\alice\SE1417_Group7_AssignmentShoesShop\SE1417_Group7_AssignmentShoesShop\SE1417_Group7_AssignmentShoesShop\SE1417_Group7_AssignmentShoesShop\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.pdb
+D:\SE1417_Group7_AssignmentShoesShop\SE1417_Group7_AssignmentShoesShop\SE1417_Group7_AssignmentShoesShop\SE1417_Group7_AssignmentShoesShop\AssignmentWEBPRN292\bin\AssignmentWEBPRN292.dll.config
+D:\SE1417_Group7_AssignmentShoesShop\SE1417_Group7_AssignmentShoesShop\SE1417_Group7_AssignmentShoesShop\SE1417_Group7_AssignmentShoesShop\AssignmentWEBPRN292\bin\AssignmentWEBPRN292.dll
+D:\SE1417_Group7_AssignmentShoesShop\SE1417_Group7_AssignmentShoesShop\SE1417_Group7_AssignmentShoesShop\SE1417_Group7_AssignmentShoesShop\AssignmentWEBPRN292\bin\AssignmentWEBPRN292.pdb
+D:\SE1417_Group7_AssignmentShoesShop\SE1417_Group7_AssignmentShoesShop\SE1417_Group7_AssignmentShoesShop\SE1417_Group7_AssignmentShoesShop\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.csprojAssemblyReference.cache
+D:\SE1417_Group7_AssignmentShoesShop\SE1417_Group7_AssignmentShoesShop\SE1417_Group7_AssignmentShoesShop\SE1417_Group7_AssignmentShoesShop\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.csproj.CoreCompileInputs.cache
+D:\SE1417_Group7_AssignmentShoesShop\SE1417_Group7_AssignmentShoesShop\SE1417_Group7_AssignmentShoesShop\SE1417_Group7_AssignmentShoesShop\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.dll
+D:\SE1417_Group7_AssignmentShoesShop\SE1417_Group7_AssignmentShoesShop\SE1417_Group7_AssignmentShoesShop\SE1417_Group7_AssignmentShoesShop\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.pdb
+C:\Users\LE THANH LONG\Documents\Ky_5\AssigmentC#\AssignmentWEBPRN292\bin\AssignmentWEBPRN292.dll.config
+C:\Users\LE THANH LONG\Documents\Ky_5\AssigmentC#\AssignmentWEBPRN292\bin\AssignmentWEBPRN292.dll
+C:\Users\LE THANH LONG\Documents\Ky_5\AssigmentC#\AssignmentWEBPRN292\bin\AssignmentWEBPRN292.pdb
+C:\Users\LE THANH LONG\Documents\Ky_5\AssigmentC#\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.csprojAssemblyReference.cache
+C:\Users\LE THANH LONG\Documents\Ky_5\AssigmentC#\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.csproj.CoreCompileInputs.cache
+C:\Users\LE THANH LONG\Documents\Ky_5\AssigmentC#\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.dll
+C:\Users\LE THANH LONG\Documents\Ky_5\AssigmentC#\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.pdb
+C:\Users\ACER\Desktop\AssignmentWEBPRN292\AssignmentWEBPRN292\bin\AssignmentWEBPRN292.dll.config
+C:\Users\ACER\Desktop\AssignmentWEBPRN292\AssignmentWEBPRN292\bin\AssignmentWEBPRN292.dll
+C:\Users\ACER\Desktop\AssignmentWEBPRN292\AssignmentWEBPRN292\bin\AssignmentWEBPRN292.pdb
+C:\Users\ACER\Desktop\AssignmentWEBPRN292\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\AssignmentWEBPRN292\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\AssignmentWEBPRN292\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.dll
+C:\Users\ACER\Desktop\AssignmentWEBPRN292\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.pdb
+C:\Users\UCHIHAHAHA\Desktop\AssignmentWEBPRN292\AssignmentWEBPRN292\AssignmentWEBPRN292\bin\AssignmentWEBPRN292.dll.config
+C:\Users\UCHIHAHAHA\Desktop\AssignmentWEBPRN292\AssignmentWEBPRN292\AssignmentWEBPRN292\bin\AssignmentWEBPRN292.dll
+C:\Users\UCHIHAHAHA\Desktop\AssignmentWEBPRN292\AssignmentWEBPRN292\AssignmentWEBPRN292\bin\AssignmentWEBPRN292.pdb
+C:\Users\UCHIHAHAHA\Desktop\AssignmentWEBPRN292\AssignmentWEBPRN292\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.csprojAssemblyReference.cache
+C:\Users\UCHIHAHAHA\Desktop\AssignmentWEBPRN292\AssignmentWEBPRN292\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.csproj.CoreCompileInputs.cache
+C:\Users\UCHIHAHAHA\Desktop\AssignmentWEBPRN292\AssignmentWEBPRN292\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.dll
+C:\Users\UCHIHAHAHA\Desktop\AssignmentWEBPRN292\AssignmentWEBPRN292\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.pdb
+C:\Users\ducth\Downloads\AssignmentWEBPRN292\bin\AssignmentWEBPRN292.dll.config
+C:\Users\ducth\Downloads\AssignmentWEBPRN292\bin\AssignmentWEBPRN292.dll
+C:\Users\ducth\Downloads\AssignmentWEBPRN292\bin\AssignmentWEBPRN292.pdb
+C:\Users\ducth\Downloads\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.csprojAssemblyReference.cache
+C:\Users\ducth\Downloads\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.csproj.CoreCompileInputs.cache
+C:\Users\ducth\Downloads\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.dll
+C:\Users\ducth\Downloads\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.pdb
+D:\C#PJ\AssignmentWEBPRN292\bin\AssignmentWEBPRN292.dll.config
+D:\C#PJ\AssignmentWEBPRN292\bin\AssignmentWEBPRN292.dll
+D:\C#PJ\AssignmentWEBPRN292\bin\AssignmentWEBPRN292.pdb
+D:\C#PJ\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.csproj.AssemblyReference.cache
+D:\C#PJ\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.csproj.CoreCompileInputs.cache
+D:\C#PJ\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.dll
+D:\C#PJ\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.pdb
+C:\Users\ACER\Desktop\AssignmentWEBPRN292 (1)\AssignmentWEBPRN292\bin\AssignmentWEBPRN292.dll.config
+C:\Users\ACER\Desktop\AssignmentWEBPRN292 (1)\AssignmentWEBPRN292\bin\AssignmentWEBPRN292.dll
+C:\Users\ACER\Desktop\AssignmentWEBPRN292 (1)\AssignmentWEBPRN292\bin\AssignmentWEBPRN292.pdb
+C:\Users\ACER\Desktop\AssignmentWEBPRN292 (1)\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\AssignmentWEBPRN292 (1)\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\AssignmentWEBPRN292 (1)\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.dll
+C:\Users\ACER\Desktop\AssignmentWEBPRN292 (1)\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.pdb
+D:\C#PJ\AssignmentWEBPRN292 (1)\AssignmentWEBPRN292\bin\AssignmentWEBPRN292.dll.config
+D:\C#PJ\AssignmentWEBPRN292 (1)\AssignmentWEBPRN292\bin\AssignmentWEBPRN292.dll
+D:\C#PJ\AssignmentWEBPRN292 (1)\AssignmentWEBPRN292\bin\AssignmentWEBPRN292.pdb
+D:\C#PJ\AssignmentWEBPRN292 (1)\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.csproj.AssemblyReference.cache
+D:\C#PJ\AssignmentWEBPRN292 (1)\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.csproj.CoreCompileInputs.cache
+D:\C#PJ\AssignmentWEBPRN292 (1)\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.dll
+D:\C#PJ\AssignmentWEBPRN292 (1)\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.pdb
+C:\Users\UCHIHAHAHA\Desktop\AssignmentWEBPRN292 (1) (1)\AssignmentWEBPRN292 (1)\AssignmentWEBPRN292\bin\AssignmentWEBPRN292.dll.config
+C:\Users\UCHIHAHAHA\Desktop\AssignmentWEBPRN292 (1) (1)\AssignmentWEBPRN292 (1)\AssignmentWEBPRN292\bin\AssignmentWEBPRN292.dll
+C:\Users\UCHIHAHAHA\Desktop\AssignmentWEBPRN292 (1) (1)\AssignmentWEBPRN292 (1)\AssignmentWEBPRN292\bin\AssignmentWEBPRN292.pdb
+C:\Users\UCHIHAHAHA\Desktop\AssignmentWEBPRN292 (1) (1)\AssignmentWEBPRN292 (1)\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.csprojAssemblyReference.cache
+C:\Users\UCHIHAHAHA\Desktop\AssignmentWEBPRN292 (1) (1)\AssignmentWEBPRN292 (1)\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.csproj.CoreCompileInputs.cache
+C:\Users\UCHIHAHAHA\Desktop\AssignmentWEBPRN292 (1) (1)\AssignmentWEBPRN292 (1)\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.dll
+C:\Users\UCHIHAHAHA\Desktop\AssignmentWEBPRN292 (1) (1)\AssignmentWEBPRN292 (1)\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.pdb
+D:\AssignmentWEBPRN292\bin\AssignmentWEBPRN292.dll.config
+D:\AssignmentWEBPRN292\bin\AssignmentWEBPRN292.dll
+D:\AssignmentWEBPRN292\bin\AssignmentWEBPRN292.pdb
+D:\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.csprojAssemblyReference.cache
+D:\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.csproj.CoreCompileInputs.cache
+D:\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.dll
+D:\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.pdb
+C:\Users\UCHIHAHAHA\Desktop\Project\Project\AssignmentWEBPRN292\AssignmentWEBPRN292\bin\AssignmentWEBPRN292.dll.config
+C:\Users\UCHIHAHAHA\Desktop\Project\Project\AssignmentWEBPRN292\AssignmentWEBPRN292\bin\AssignmentWEBPRN292.dll
+C:\Users\UCHIHAHAHA\Desktop\Project\Project\AssignmentWEBPRN292\AssignmentWEBPRN292\bin\AssignmentWEBPRN292.pdb
+C:\Users\UCHIHAHAHA\Desktop\Project\Project\AssignmentWEBPRN292\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.csprojAssemblyReference.cache
+C:\Users\UCHIHAHAHA\Desktop\Project\Project\AssignmentWEBPRN292\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.csproj.CoreCompileInputs.cache
+C:\Users\UCHIHAHAHA\Desktop\Project\Project\AssignmentWEBPRN292\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.dll
+C:\Users\UCHIHAHAHA\Desktop\Project\Project\AssignmentWEBPRN292\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.pdb
+D:\C#PJ\amen\AssignmentWEBPRN292\AssignmentWEBPRN292\bin\AssignmentWEBPRN292.dll.config
+D:\C#PJ\amen\AssignmentWEBPRN292\AssignmentWEBPRN292\bin\AssignmentWEBPRN292.dll
+D:\C#PJ\amen\AssignmentWEBPRN292\AssignmentWEBPRN292\bin\AssignmentWEBPRN292.pdb
+D:\C#PJ\amen\AssignmentWEBPRN292\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.csproj.AssemblyReference.cache
+D:\C#PJ\amen\AssignmentWEBPRN292\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.csproj.CoreCompileInputs.cache
+D:\C#PJ\amen\AssignmentWEBPRN292\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.dll
+D:\C#PJ\amen\AssignmentWEBPRN292\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.pdb
+D:\AssignmentWEBPRN292\AssignmentWEBPRN292\bin\AssignmentWEBPRN292.dll.config
+D:\AssignmentWEBPRN292\AssignmentWEBPRN292\bin\AssignmentWEBPRN292.dll
+D:\AssignmentWEBPRN292\AssignmentWEBPRN292\bin\AssignmentWEBPRN292.pdb
+D:\AssignmentWEBPRN292\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.csprojAssemblyReference.cache
+D:\AssignmentWEBPRN292\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.csproj.CoreCompileInputs.cache
+D:\AssignmentWEBPRN292\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.dll
+D:\AssignmentWEBPRN292\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.pdb
+C:\Users\ACER\Desktop\prn292\AssignmentWEBPRN292\AssignmentWEBPRN292\bin\AssignmentWEBPRN292.dll.config
+C:\Users\ACER\Desktop\prn292\AssignmentWEBPRN292\AssignmentWEBPRN292\bin\AssignmentWEBPRN292.dll
+C:\Users\ACER\Desktop\prn292\AssignmentWEBPRN292\AssignmentWEBPRN292\bin\AssignmentWEBPRN292.pdb
+C:\Users\ACER\Desktop\prn292\AssignmentWEBPRN292\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.csprojAssemblyReference.cache
+C:\Users\ACER\Desktop\prn292\AssignmentWEBPRN292\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.csproj.CoreCompileInputs.cache
+C:\Users\ACER\Desktop\prn292\AssignmentWEBPRN292\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.dll
+C:\Users\ACER\Desktop\prn292\AssignmentWEBPRN292\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.pdb
+D:\C#PJ\prn292\AssignmentWEBPRN292\AssignmentWEBPRN292\bin\AssignmentWEBPRN292.dll.config
+D:\C#PJ\prn292\AssignmentWEBPRN292\AssignmentWEBPRN292\bin\AssignmentWEBPRN292.dll
+D:\C#PJ\prn292\AssignmentWEBPRN292\AssignmentWEBPRN292\bin\AssignmentWEBPRN292.pdb
+D:\C#PJ\prn292\AssignmentWEBPRN292\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.csproj.AssemblyReference.cache
+D:\C#PJ\prn292\AssignmentWEBPRN292\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.csproj.CoreCompileInputs.cache
+D:\C#PJ\prn292\AssignmentWEBPRN292\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.dll
+D:\C#PJ\prn292\AssignmentWEBPRN292\AssignmentWEBPRN292\obj\Debug\AssignmentWEBPRN292.pdb
